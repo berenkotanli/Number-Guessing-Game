@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SayiTahminApp</string>
+    <string name="numberInput">Tahminin</string>
+    <string name="guess">TAHMİN ET</string>
+    <string name="todo">TODO</string>
+    <string name="score">Skorunuz:</string>
+    <string name="info">1 ile 100 arasında bir sayı gir</string>
+
+</resources>
